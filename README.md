@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Sea Monster Cove](https://0x0.st/X74v.gif)
+![Sea Monster Cove](./sea-monster-cove-optimized.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with peek(Linux) 
